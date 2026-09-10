@@ -9,5 +9,5 @@ using namespace std;
 
 int main()
 {
-    // YOUR CODE HERE
+    std::cout << "Hello, world!" << std::endl;
 }
